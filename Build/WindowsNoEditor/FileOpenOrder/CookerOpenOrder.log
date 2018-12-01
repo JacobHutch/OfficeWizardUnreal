@@ -1,0 +1,721 @@
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/HelveticaNeue_Medium.uasset" 0
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/HUDFont.uasset" 1
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/LUT_Reddish.uasset" 2
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/LUT_Sepia.uasset" 3
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fan_01_Skeleton.uasset" 4
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/BaseAnimation.uasset" 5
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fan_Blades_01_Skeleton.uasset" 6
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/fanspin.uasset" 7
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Simple.uasset" 8
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_CHrome2.uasset" 9
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_Plastic_Dark.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 13
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 14
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fan_01_PhysicsAsset.uasset" 15
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fan_01.uasset" 16
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fan_Blades_01_PhysicsAsset.uasset" 17
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fan_Blades_01.uasset" 18
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/Fan.uasset" 19
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Decal_01.uasset" 20
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Decal_01.uasset" 21
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Decal_02.uasset" 22
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Decal_02.uasset" 23
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Decal_B4_01.uasset" 24
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Decal_03.uasset" 25
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast_RGB.uasset" 27
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/2xRGB.uasset" 28
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_02_M2.uasset" 29
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_01_G.uasset" 30
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_01_N.uasset" 31
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_01_S.uasset" 32
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Metal_Scratches_M.uasset" 33
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_02_E.uasset" 34
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Masked.uasset" 35
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_02_D.uasset" 36
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_02_E.uasset" 37
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_02_G.uasset" 38
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_02_N.uasset" 39
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_02_SR.uasset" 40
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Door_02_Masked_6.uasset" 41
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_01_D.uasset" 42
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_01_M.uasset" 43
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Masked_CHEAP.uasset" 44
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_02_D.uasset" 45
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_02_G.uasset" 46
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_02_M.uasset" 47
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_02_N.uasset" 48
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_02_SR.uasset" 49
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Floor_02_Masked.uasset" 50
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_D.uasset" 51
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_G.uasset" 52
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_M2.uasset" 53
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_N.uasset" 54
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_SR.uasset" 55
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Floor_03_Masked_6.uasset" 56
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_Opacity.uasset" 57
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Masked_Opacity.uasset" 58
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_03_M.uasset" 59
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Floor_03_Masked_Opacity.uasset" 60
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Glass2.uasset" 61
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Glass3.uasset" 62
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Kitbash_01_N.uasset" 63
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Kitbash_01_O.uasset" 64
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Office_Room_01_occlusion.uasset" 65
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Kitbash.uasset" 66
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Kitbash_Inst.uasset" 67
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Kitbash_Inst3.uasset" 68
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Kitbash_Inst4.uasset" 69
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Kitbash_Inst6.uasset" 70
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Grating_01_M.uasset" 71
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Grating_01_N.uasset" 72
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Alpha_Simple.uasset" 73
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Emissive.uasset" 74
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Divider_01_G.uasset" 75
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Office_01_D.uasset" 76
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Office_01_E.uasset" 77
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Office_01_M.uasset" 78
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Office_01_N.uasset" 79
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Office_01_SR.uasset" 80
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Office_01_Masked_6.uasset" 81
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Metal_Tiling_N.uasset" 82
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Pipe_Set_01_normals.uasset" 83
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Pipe_Set_01_occlusion.uasset" 84
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Pipes_Set_01_Mask.uasset" 85
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Pipe.uasset" 86
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Pipe_Inst_1.uasset" 87
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Pipe_Inst_2.uasset" 88
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Robot_D.uasset" 89
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Robot_M.uasset" 90
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Robot_N.uasset" 91
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Robot_occlusion.uasset" 92
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Robot_01.uasset" 93
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Robot_02.uasset" 94
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Robot_03.uasset" 95
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_CHrome.uasset" 96
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_Copper.uasset" 97
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_Steel_1.uasset" 98
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_02_D.uasset" 99
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_02_G.uasset" 100
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_02_M2.uasset" 101
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_02_N.uasset" 102
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_02_SR.uasset" 103
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Tile_02_Masked_6.uasset" 104
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_03_B_D.uasset" 105
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_03_B_M.uasset" 106
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_03_B_N.uasset" 107
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_03_B_SR.uasset" 108
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_03_E.uasset" 109
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Tile_03_B_Masked.uasset" 110
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/T_Smoke_SubUV.uasset" 111
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/T_Smoke_Tiled_D.uasset" 112
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Particles/Materials/M_smoke_subUV.uasset" 113
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Particles/P_Steam_Lit.uasset" 114
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/M_smoke_subUV_Orange.uasset" 115
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Particles/P_Steam_Lit_Orange.uasset" 116
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Bench_01_D.uasset" 117
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Bench_01_M.uasset" 118
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Bench_01_N.uasset" 119
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Bench_01_SR.uasset" 120
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Bench_01_Masked.uasset" 121
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Bench_01_Low.uasset" 122
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Bin_01_normals.uasset" 123
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Metal_Brushed_M.uasset" 124
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Bin_01.uasset" 125
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Bin_01.uasset" 126
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Cables_01.uasset" 127
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Cables_02.uasset" 128
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Robot_Animated_Skeleton.uasset" 129
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Camera1Anim.uasset" 130
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/PLACEHOLDER_Robot_02_Skeleton.uasset" 131
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Camera2Anim.uasset" 132
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Divider_01_D.uasset" 133
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Divider_01_M2.uasset" 134
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Divider_01_N.uasset" 135
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Divider_01_SR.uasset" 136
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Divider_01_Masked_6.uasset" 137
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Divider_01.uasset" 138
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Doorstep_01.uasset" 139
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_01_D.uasset" 140
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_01_E.uasset" 141
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_01_G.uasset" 142
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_01_M.uasset" 143
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_01_N.uasset" 144
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Door_01_SR.uasset" 145
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Door_01_Masked.uasset" 146
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Door_01.uasset" 147
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Door_01_Module.uasset" 148
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Door_02.uasset" 149
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Floor_01_SR.uasset" 150
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Floor_01_Masked.uasset" 151
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Floor_01.uasset" 152
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Floor_02.uasset" 153
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Floor_03.uasset" 154
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fond_Wall_01_D.uasset" 155
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fond_Wall_01_E.uasset" 156
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fond_Wall_01_G.uasset" 157
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fond_Wall_01_M.uasset" 158
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fond_Wall_01_N.uasset" 159
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fond_Wall_01_SR.uasset" 160
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Fond_Wall_01_Masked.uasset" 161
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fond_Wall_01.uasset" 162
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Furniture_ChairRug_01.uasset" 163
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Glass_Divider_01.uasset" 164
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Handlebar_01.uasset" 165
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/List_01.uasset" 166
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Office_01_Low.uasset" 167
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Office_Details_01.uasset" 168
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Office_Room_01.uasset" 169
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Pipe_01.uasset" 170
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Pipe_02.uasset" 171
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Pipe_03.uasset" 172
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/PLACEHOLDER_Robot_02_PhysicsAsset.uasset" 173
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/PLACEHOLDER_Robot_02.uasset" 174
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Poster_01.uasset" 175
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/PowerSocket_01.uasset" 176
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Rail_01.uasset" 177
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Robot_Animated_PhysicsAsset.uasset" 178
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Robot_Animated.uasset" 179
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/ShelfHolder_01.uasset" 180
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Sprinkler.uasset" 181
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_01_d.uasset" 182
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_01_E.uasset" 183
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_01_G.uasset" 184
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_01_M.uasset" 185
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_01_N.uasset" 186
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Tile_01_SR.uasset" 187
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Tile_01_Masked.uasset" 188
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Tile_01_Rescaled.uasset" 189
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Tile_02_B.uasset" 190
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Tile_03.uasset" 191
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Tile_03_Cap.uasset" 192
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Basic_Wall.uasset" 193
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Pillar_50x500.uasset" 194
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_400x300.uasset" 195
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_400x400_2.uasset" 196
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_500x500.uasset" 197
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Collapse01.uasset" 198
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Collapse02.uasset" 199
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Explosion01.uasset" 200
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Explosion02.uasset" 201
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Fire01.uasset" 202
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Fire_Sparks01.uasset" 203
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Light01.uasset" 204
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Light01_Cue.uasset" 205
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Light02.uasset" 206
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Light02_Cue.uasset" 207
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Smoke01.uasset" 208
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Starter_Birds01.uasset" 209
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Starter_Music01.uasset" 210
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Starter_Wind05.uasset" 211
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Starter_Wind06.uasset" 212
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Steam01.uasset" 213
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Explosion_Cue.uasset" 214
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Burst_M.uasset" 215
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_Burst.uasset" 216
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 217
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 218
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 220
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 221
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 222
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 223
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 224
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/P_Explosion.uasset" 225
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 226
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 227
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 228
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Bush_D.uasset" 229
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Bush_N.uasset" 230
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Bush.uasset" 231
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Bush.uasset" 232
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Glass.uasset" 233
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Door_M.uasset" 234
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Door_N.uasset" 235
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Door.uasset" 236
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Door.uasset" 237
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 238
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 239
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 240
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 241
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 242
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 243
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_RockMesh_M.uasset" 244
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_RockMesh_N.uasset" 245
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Rock.uasset" 246
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Rock.uasset" 247
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Basic_Floor.uasset" 248
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Stairs.uasset" 249
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Cone.uasset" 250
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 251
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 252
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Pipe.uasset" 253
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 254
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 255
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Plane.uasset" 256
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Torus.uasset" 257
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Trim.uasset" 258
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 259
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 260
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 261
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Tube.uasset" 262
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 263
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 264
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 265
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/LUT2.uasset" 266
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 267
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 268
+"../../../Engine/Content/BasicShapes/Cone.uasset" 269
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 270
+"../../../Engine/Content/BasicShapes/Plane.uasset" 271
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 272
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 273
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 274
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 275
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 276
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 277
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 278
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 279
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 280
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 283
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 284
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 285
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 286
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 289
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 290
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 291
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 292
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 293
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 294
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 295
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 296
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 297
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 298
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 299
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 300
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 301
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 302
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 303
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 304
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 305
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 306
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 307
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 308
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 309
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 310
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 311
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 312
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 313
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 314
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 315
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 316
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 317
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 318
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 319
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 320
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 321
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 322
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 323
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 324
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 325
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 326
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 327
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 328
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 329
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 330
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 331
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 332
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 333
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 334
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 335
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 336
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 337
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 338
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 339
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 340
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 341
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 342
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 343
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 344
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 345
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 346
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 347
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 348
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 349
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 350
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 351
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 352
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 353
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 354
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 355
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 356
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 357
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 358
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 359
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 361
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 362
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 363
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 364
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 365
+"../../../Engine/Content/EngineResources/Black.uasset" 366
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 367
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 368
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 369
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 370
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 371
+"../../../Engine/Content/EngineSounds/Master.uasset" 372
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 373
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 374
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 375
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 376
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 377
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 378
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 379
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 380
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 381
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 382
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 383
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 384
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 385
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 386
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 387
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 388
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 389
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 390
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 392
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 395
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 396
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 397
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 398
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 399
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 400
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 401
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 402
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 403
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 404
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 405
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 406
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 407
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 408
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 409
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 410
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 411
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 412
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 413
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 414
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 415
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 416
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 417
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 418
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 419
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 420
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 421
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 422
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 423
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 424
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 425
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 426
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 427
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/MenuHUD.uasset" 428
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/FPSController.uasset" 429
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Chair_02.uasset" 430
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/Enemy.uasset" 431
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 432
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 433
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 434
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 435
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 436
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 437
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 438
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 439
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 440
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fusebox_01_D.uasset" 441
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fusebox_01_G.uasset" 442
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fusebox_01_M.uasset" 443
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fusebox_01_N.uasset" 444
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Fusebox_01_SR.uasset" 445
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Fusebox_Masked.uasset" 446
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Fusebox_01.uasset" 447
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_400x400.uasset" 448
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/Elevator.uasset" 449
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/FPSGamemode.uasset" 450
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/MainMenuGameMode.uasset" 451
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Maps/MainMenuLevel_BuiltData.uasset" 452
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/carbon7.uasset" 453
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Cable_02.uasset" 454
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Glass.uasset" 455
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/LEDSign_E.uasset" 456
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Emissive_Panner.uasset" 457
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Master_Emissive_White.uasset" 458
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Monitor_01.uasset" 459
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Monitor_01.uasset" 460
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Palm_Leaf_01.uasset" 461
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Palm_Leaf_01_N.uasset" 462
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Plant_01.uasset" 463
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Posters_01.uasset" 464
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Posters_01.uasset" 465
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_MacroVariation.uasset" 466
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 467
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 468
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Steel.uasset" 469
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 470
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 471
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 472
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 473
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 474
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 475
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 476
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 477
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 478
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 479
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Wood_Oak.uasset" 480
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Chair_M.uasset" 481
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Chair_N.uasset" 482
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Chair.uasset" 483
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Emissive_Simple.uasset" 484
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Server_01_D.uasset" 485
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Server_01_E.uasset" 486
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Server_01_M.uasset" 487
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Server_01_N.uasset" 488
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Server_01_SR.uasset" 489
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Server_01_Masked_6.uasset" 490
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_Plastic.uasset" 491
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_PVC_1.uasset" 492
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_PVC_2.uasset" 493
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_PVC_3.uasset" 494
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Montserrat-Regular.uasset" 495
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Montserrat-Regular_Font.uasset" 496
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Frame_2.uasset" 497
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Blueprints/MainMenu.uasset" 498
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/LUT_Greenish.uasset" 499
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Ceiling_Light_01.uasset" 500
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Folder_01.uasset" 501
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/LEDSign_01.uasset" 502
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Monitor_01.uasset" 503
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/NewtonsCradle_01.uasset" 504
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Paper_Pile_01.uasset" 505
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Plant_01.uasset" 506
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Prop_Keyboard_01.uasset" 507
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Server_01.uasset" 508
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Floor_400x400.uasset" 509
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 510
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 511
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Chair.uasset" 512
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Frame_M.uasset" 513
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Frame_N.uasset" 514
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Frame.uasset" 515
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_DoorFrame.uasset" 516
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Shelf_M.uasset" 517
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Shelf_N.uasset" 518
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Shelf.uasset" 519
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Shelf.uasset" 520
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Maps/MainMenuLevel.umap" 521
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Maps/Playground_BuiltData.uasset" 522
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 523
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Cable_01.uasset" 524
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 525
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 526
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 527
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 528
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 529
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 530
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_TableRound_M.uasset" 531
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_TableRound_N.uasset" 532
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_TableRound.uasset" 533
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Dyson_D.uasset" 534
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Dyson_G.uasset" 535
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Dyson_M.uasset" 536
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Dyson_N.uasset" 537
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Textures/Dyson_SR.uasset" 538
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Dyson_Masked.uasset" 539
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Materials/Simple_PVC_4.uasset" 540
+"../../../Engine/Content/BasicShapes/Cube.uasset" 541
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Dyson_Low.uasset" 542
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Poster_02.uasset" 543
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Props/Prop_FireExtinguisher_01.uasset" 544
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_400x200.uasset" 545
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Couch.uasset" 546
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Statue_M.uasset" 547
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Statue_N.uasset" 548
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Statue.uasset" 549
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 550
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Statue.uasset" 551
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_TableRound.uasset" 552
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/Maps/Playground.umap" 553
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 554
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 555
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 556
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 557
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 558
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 559
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 560
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 561
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 562
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 563
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 564
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 565
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 566
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_AssetPlatform.uasset" 567
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 568
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 569
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 570
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 571
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 572
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 573
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 574
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 575
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Maps/Advanced_Lighting.umap" 576
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 577
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 578
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 579
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 580
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 581
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Copper.uasset" 582
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 583
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Maps/Minimal_Default.umap" 584
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Fire01_Cue.uasset" 585
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 586
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 587
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 588
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Water_N.uasset" 589
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 590
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 591
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/P_Fire.uasset" 592
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 593
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Smoke01_Cue.uasset" 594
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/P_Smoke.uasset" 595
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 596
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 597
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Spark_Core.uasset" 598
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_Spark.uasset" 599
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/P_Sparks.uasset" 600
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 601
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Steam01_Cue.uasset" 602
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/P_Steam_Lit.uasset" 603
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 604
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Lamp_M.uasset" 605
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Lamp_N.uasset" 606
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/Materials/M_Lamp.uasset" 607
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 608
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 609
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 610
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 611
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 613
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 614
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 615
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 616
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 617
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 618
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 619
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 620
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 621
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 622
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 623
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 624
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 625
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 626
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 627
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 628
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 629
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 630
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 631
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 632
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 633
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 634
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 635
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 636
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 637
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 638
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 639
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 640
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 641
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Gradinet_01.uasset" 642
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 643
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 644
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 645
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 646
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 647
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 648
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 649
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 650
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 651
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 652
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 653
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 654
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 655
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 656
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 657
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 658
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 659
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 660
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 661
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 662
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 663
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 664
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Ground_Grass.uasset" 665
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 666
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 667
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 668
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 669
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 670
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Ground_Moss.uasset" 671
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 672
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 673
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Gold.uasset" 674
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 675
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Metal_Rust.uasset" 676
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 677
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 678
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 679
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 680
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 681
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 682
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 683
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Rock_Slate.uasset" 684
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 685
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 686
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 687
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 688
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 689
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 690
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 691
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 692
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Tech_Panel.uasset" 693
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Water_Lake.uasset" 694
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Water_M.uasset" 695
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Water_Ocean.uasset" 696
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 697
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 698
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 699
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 700
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Materials/M_Wood_Pine.uasset" 701
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 702
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 703
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Collapse_Cue.uasset" 704
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 705
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 706
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 707
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 708
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/MaterialSphere.uasset" 709
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_CornerFrame.uasset" 710
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_GlassWindow.uasset" 711
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_PillarFrame.uasset" 712
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_PillarFrame300.uasset" 713
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Props/SM_WindowFrame.uasset" 714
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Cube.uasset" 715
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 716
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Shapes/Shape_Sphere.uasset" 717
+"C:/Users/jacob/Documents/Unreal Projects/TutorialFPS/Content/StarterContent/Maps/StarterMap.umap" 718
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 719
+"../../../Engine/Content/Maps/Entry.umap" 720
