@@ -1,2 +1,4 @@
 Playground_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
 Content\Maps\Playground_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+'*_BuiltData.uasset' filter=lfs diff=lfs merge=lfs -text
+'Content/Maps/MainMenuLevel_BuiltData.uasset' filter=lfs diff=lfs merge=lfs -text
